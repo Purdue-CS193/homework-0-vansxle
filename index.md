@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 
 # Vanessa's First CS193 Homework
-### Favourite things about CS19300
+## Favourite things about CS19300
 
 - interactive icebreaker games 
 - cute and young lecturers 
